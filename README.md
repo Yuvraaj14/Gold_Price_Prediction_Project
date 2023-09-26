@@ -5,11 +5,17 @@ This repository contains a machine learning project that aims to predict the fut
 Table of Contents
 
 Introduction
+
 Data
+
 Methodology
+
 Models
+
 Usage
+
 Results
+
 Contributing
 
 Introduction
