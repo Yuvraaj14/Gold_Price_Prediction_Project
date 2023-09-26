@@ -1,4 +1,5 @@
-Gold Price Prediction
+Gold Price Prediction 
+
 This repository contains a machine learning project that aims to predict the future prices of gold using historical data and various predictive models.
 
 Table of Contents
