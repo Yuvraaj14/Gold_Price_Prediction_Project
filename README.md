@@ -4,19 +4,19 @@ This repository contains a machine learning project that aims to predict the fut
 
 Table of Contents
 
-Introduction
+1. Introduction
 
-Data
+2. Data
 
-Methodology
+3. Methodology
 
-Models
+4. Models
 
-Usage
+5. Usage
 
-Results
+6. Results
 
-Contributing
+7. Contributing
 
 Introduction
 
